@@ -1,0 +1,5 @@
+===== REPORTE DE CLIENTES =====
+Total clientes: 3
+Clientes regulares: 1
+Clientes premium: 1
+Clientes corporativos: 1

@@ -1,0 +1,4 @@
+tipo,Rut,nombre,email,telefono,direccion,empresa,contacto
+regular,11-1,luis,luis@email.com,934545677,calle 31 puerto montt,,
+premium,22-2,luisa,luisa@email.com,0,pasaje las gaviotas sn,,
+corporativo,33-3,andres,andres@email.com,652345678,pedro montt 3345,google, google.com

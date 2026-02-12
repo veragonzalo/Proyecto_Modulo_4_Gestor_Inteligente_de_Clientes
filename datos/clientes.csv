@@ -1,0 +1,4 @@
+tipo,RUT,nombre,email,telefono,direccion,empresa,contacto
+regular,1-1,gonzalo,gonzalo@email.com,945321234,pasaje 1,,
+premium,2-2,juan,juan@email.com,93423233,pasaje las golondrinas 123,,
+corporativo,3-3,pedro,pedro@email.com,23334345,avda. los lagos 345,banco estado,contacto
